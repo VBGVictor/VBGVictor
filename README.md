@@ -4,7 +4,7 @@
 
 **`Economist (Data Analyst/Developer)`**
 
-Sou formado em Economia, possuo 5 anos de experiencia no mercado financeiro e atuo como analista de dados e desenvolvo API's de suporte para atividades no meu trabalho. Atualmente estou realizando projetos maiores para realizar Analises no mercado financeiro.
+Sou formado em Economia, possuo 5 anos de experiencia no mercado financeiro e atuo como analista de dados desenvolvendo API's de suporte para atividades no meu trabalho. Atualmente estou realizando projetos maiores para realizar Analises no mercado financeiro.
 
 <br/>
 
