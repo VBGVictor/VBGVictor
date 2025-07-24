@@ -83,15 +83,6 @@ Sou formado em Economia, possuo 5 anos de experiencia no mercado financeiro e at
 
 <img
     align="left"
-    alt="Flask"
-    title="Flask"
-    width="45px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"
-/>
-
-<img
-    align="left"
     alt="TypeScript"
     title="TypeScript"
     width="45px"
