@@ -24,4 +24,4 @@ Economist with 6 years of experience in the financial market, specializing in **
 
 ### 📬 Contact & Insights
 * **LinkedIn:** [linkedin.com/in/VBGVictor](https://www.linkedin.com/in/victor-barbosa-gov/)
-* **Writing:** [medium.com/@VBGVictor]([https://medium.com/@victor.barbosa.gov]) — *Articles on Data Contracts and Financial Architectures.*
+* **Writing:** [medium.com/@VBGVictor](https://medium.com/@victor.barbosa.gov) — *Articles on Data Contracts and Financial Architectures.*
