@@ -1,47 +1,27 @@
 # Victor Goveia
-### Data Engineer | Economist | Financial Systems Specialist
+**Data Engineer | Economist | Financial Systems Architecture**
 
 ---
 
-## 🇧🇷 Sobre Mim
-Economista com 5 anos de experiência no mercado financeiro. Atuo como Engenheiro de Dados focado na construção de arquiteturas modernas (Modern Data Stack) para análise de ativos, automação de decisões e integridade operacional. Especialista em pipelines governados e escaláveis.
+###  Professional Overview
+Economist with 6 years of experience in the financial market, specializing in **Data Stack** architectures and with experience in **Data Analysis** focused on investments, mainly in the Brazilian and American markets. I bridge the gap between complex financial business rules and scalable data engineering, focusing on high-performance pipelines and data governance.
 
-* 🔭 **Projeto em destaque:** Open Financial Lakehouse (Spark 4.1, Unity Catalog, dbt, Delta Lake, Python).
-* 🐍 **Core Tech:** Python Avançado e Java para processamento de alto desempenho.
-* 📊 **Domínio:** Modelagem de dados financeiros, integração de APIs e automação de risco.
-
-## 🇺🇸 About Me
-Economist with 5 years of experience in the financial market. I work as a Data Engineer focused on building Modern Data Stack architectures for asset analysis, decision automation, and operational integrity. Specialist in governed and scalable data pipelines.
-
-* 🔭 **Featured Project:** Open Financial Lakehouse (Spark 4.1, Unity Catalog, dbt, Delta Lake, Python).
-* 🐍 **Core Tech:** Advanced Python and Java for high-performance processing.
-* 📊 **Expertise:** Financial data modeling, API integration, and risk automation.
+###  Featured Projects
+#### [Open Financial Lakehouse](https://github.com/VBGVictor/open-financial-lakehouse)
+* **Context:** A production-ready data platform for financial intelligence.
+* **Stack:** Apache Spark 4.1, Delta Lake, dbt, and Python.
+* **Focus:** Implementing a Medallion Architecture with strict data contracts and ACID transactions for B3/CVM data.
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="45" title="Apache Spark"/>
-  <img src="https://simpleicons.org/icons/dbt.svg" width="45" title="dbt" style="filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(334%) brightness(101%) contrast(101%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
-</div>
+### Technical Expertise
+* **Data Engineering:** Apache Spark (PySpark/Java), dbt, Delta Lake, Unity Catalog.
+* **Languages:** Python (Advanced), Java (Advanced), SQL (PostgreSQL/MySQL), JavaScript (Basic).
+* **Infrastructure:** Docker, Airflow (CI/CD for Data), Linux/WSL2.
+* **Finance:** Quantitative Analysis, Risk Modeling, Asset Pricing, B3/CVM Regulatory Data.
 
 ---
 
-### 📈 Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VBGVictor&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBGVictor&theme=dark&layout=compact" />
-</div>
-
----
-
-### 📬 Connect with me / Conecte-se comigo
-[LinkedIn](https://www.linkedin.com/in/VBGVictor) | [Medium](https://medium.com/@VBGVictor)
+### 📬 Contact & Insights
+* **LinkedIn:** [linkedin.com/in/VBGVictor](https://www.linkedin.com/in/victor-barbosa-gov/)
+* **Writing:** [medium.com/@VBGVictor]([https://medium.com/@victor.barbosa.gov]) — *Articles on Data Contracts and Financial Architectures.*
