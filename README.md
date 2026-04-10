@@ -81,6 +81,8 @@ Sou formado em Economia, possuo 5 anos de experiencia no mercado financeiro e at
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
 />
 
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachespark.svg" height="40"/>
+
 <img
     align="left"
     alt="TypeScript"
