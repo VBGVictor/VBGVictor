@@ -4,7 +4,13 @@
 ---
 
 ###  Professional Overview
-Economist with 6 years of experience in the financial market, specializing in **Data Stack** architectures and with experience in **Data Analysis** focused on investments, mainly in the Brazilian and American markets. I bridge the gap between complex financial business rules and scalable data engineering, focusing on high-performance pipelines and data governance.
+Economist (Uni-FACEF, 2019), currently pursuing an MBA in Data Science and Analytics at USP/ESALQ, with over 6 years of experience in the financial market. I work as a Data Analyst with a strong focus on Data Engineering, BI, and Performance.
+
+I have solid experience in high-pressure financial environments, including equity trading desks and back-office operations.
+
+Recognized for strong analytical skills, I have hands-on experience building and orchestrating data pipelines, integrating financial systems, and structuring analytical data architectures. My work focuses on reliability, automation, and generating business value through data.
+
+My technical stack includes Python, SQL, Airflow, and BI tools, connecting data engineering to strategic decision-making. I also have practical foundational knowledge in data orchestration using Oracle Cloud Infrastructure.
 
 ###  Featured Projects
 #### [Open Financial Lakehouse](https://github.com/VBGVictor/open-financial-lakehouse)
